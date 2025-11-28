@@ -33,3 +33,4 @@ SEMA_files_uploaded/
 # Data files (if you don't want to push them)
 RAG_DATA/
 SEMA_DATA/
+SEMA_DATA_exports/
