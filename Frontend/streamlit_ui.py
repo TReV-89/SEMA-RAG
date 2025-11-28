@@ -24,7 +24,7 @@ if not api_key:
     raise ValueError("GEMINI_API_KEY environment variable is not in .env file.")
 
 # To this:
-chroma_host = os.getenv("CHROMA_HOST", "rag-system-data.onrender.com")
+chroma_host = os.getenv("CHROMA_HOST", "https://sema-rag-database.onrender.com")
 chroma_port = int(os.getenv("CHROMA_PORT", "443"))
 use_ssl = os.getenv("CHROMA_SSL", "true").lower() == "true"
 
