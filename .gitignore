@@ -18,6 +18,8 @@ chroma_db_data/
 
 # Uploaded files
 SEMA_files_uploaded/
+RAG_DATA/
+SEMA_DATA/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
