@@ -16,3 +16,4 @@ torch == 2.2.0
 numpy<2.0.0
 transformers 
 sentence-transformers
+chromadb
