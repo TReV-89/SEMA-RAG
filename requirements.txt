@@ -1,0 +1,19 @@
+streamlit
+python-dotenv
+langchain-google-genai
+langchain-community
+chromadb
+langchain-core
+google-generativeai
+pdfplumber
+langchain-classic
+pydantic
+openpyxl
+unstructured
+networkx
+msoffcrypto-tool
+streamlit-folium
+torch == 2.2.0
+numpy<2.0.0
+transformers 
+sentence-transformers
